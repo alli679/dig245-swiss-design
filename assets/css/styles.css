@@ -1,2 +1,9 @@
 
 /* css */
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Nunito Sans', sans-serif;
+}
