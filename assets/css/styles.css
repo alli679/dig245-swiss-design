@@ -22,6 +22,6 @@
 
 .black-background {
   background-color: #160005;
-  width: 1400px;
+  max-width: 100%;
   height: 790px;
 }
