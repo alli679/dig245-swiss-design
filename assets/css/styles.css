@@ -4,12 +4,6 @@ p {
   font-family: 'Roboto', sans-serif;
 }
 
-h1 {
-  font-family: 'Nunito Sans', sans-serif;
-  font-size: 7.8125rem;
-  line-height: 7.8125rem;
-}
-
 .container {
   background-color: #F03327;
 }
@@ -20,4 +14,7 @@ h1 {
 
 .white {
   color: #DFE3D9;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 7.8125rem;
+  line-height: 7.8125rem;
 }
