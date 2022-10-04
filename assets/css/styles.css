@@ -1,6 +1,6 @@
 
 /* css */
-.container {
+.container, .container-fluid {
   background-color: #F03327;
 }
 
