@@ -23,5 +23,6 @@
 .black-background {
   background-color: #160005;
   max-width: 100%;
-  height: 790px;
+  max-height: 790px;
+  min-height: 571px;
 }
