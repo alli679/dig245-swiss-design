@@ -19,10 +19,17 @@
   line-height: 7.8125rem;
 }
 
-
 .black-background {
   background-color: #160005;
   max-width: 100%;
   max-height: 790px;
   min-height: 571px;
+}
+
+@media (min-width: 768px) {
+  .white {font-size: 5rem}
+}
+
+@media (min-width: 576px) {
+  
 }
