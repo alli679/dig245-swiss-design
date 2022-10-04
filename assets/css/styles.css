@@ -15,8 +15,8 @@
 .white {
   color: #DFE3D9;
   font-family: 'Nunito Sans', sans-serif;
-  font-size: 7.8125rem;
-  line-height: 7.8125rem;
+  font-size: 5rem;
+  line-height:10.6875rem;
 }
 
 .black-background {
@@ -27,9 +27,9 @@
 }
 
 @media (min-width: 768px) {
-
+  .white{font-size: 9.5625rem}
 }
 
-@media (min-width: 576px) {
-  .white {font-size: 5rem}
+@media (min-width: 992px) {
+  .white{line-height: 7.8125rem}
 }
