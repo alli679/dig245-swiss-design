@@ -4,6 +4,10 @@
   background-color: #F03327;
 }
 
+.redsquare {
+  translate:30%;
+}
+
 .black {
   color: #160005;
   font-family: 'Roboto', sans-serif;
